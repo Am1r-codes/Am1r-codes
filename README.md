@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Amir
+
+- 🧠 Bsc AI student at UvA, focused on medical/Neuro AI and robotics.
 
 <!--
 **Am1r-codes/Am1r-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
